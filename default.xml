@@ -13,4 +13,9 @@
     <project path="uniswap/v3-periphery" name="Uniswap/v3-periphery.git" remote="origin" groups="uniswap" revision="main"/>
     <project path="uniswap/v4-core" name="Uniswap/v4-core.git" remote="origin" groups="uniswap" revision="main"/>
     <project path="uniswap/v4-periphery" name="Uniswap/v4-periphery.git" remote="origin" groups="uniswap" revision="main"/>
+
+    <project path="pancakeswap/pancake-smart-contracts" name="pancakeswap/pancake-smart-contracts.git" remote="origin" groups="pancakeswap" revision="master"/>
+    <project path="pancakeswap/pancake-document" name="pancakeswap/pancake-document.git" remote="origin" groups="pancakeswap" revision="en"/>
+    <project paht="pancakeswap/pancake-frontend" name="pancakeswap/pancake-frontend.git" remote="origin" groups="pancakeswap" revision="develop"/>
+    <project path="pancakeswap/pancake-subgraph" name="pancakeswap/pancake-subgraph.git" remote="origin" groups="pancakeswap" revision="v3"/>
 </manifest>
