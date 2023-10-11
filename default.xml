@@ -3,14 +3,14 @@
     <remote name="origin" fetch="ssh://git@github.com/" />
     <default revision="master" remote="origin" sync-j="4" />
 
-    <project path="uniswap/interface" name="Uniswap/interface.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/permit2" name="Uniswap/permit2.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/sdk-core" name="Uniswap/sdk-core.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/v2-core" name="Uniswap/v2-core.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/v2-periphery" name="Uniswap/v2-periphery.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/v2-sdk" name="Uniswap/v2-sdk.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/v3-core" name="Uniswap/v3-core.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/v3-periphery" name="Uniswap/v3-periphery.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/v4-core" name="Uniswap/v4-core.git" remote="origin"/ groups="uniswap">
-    <project path="uniswap/v4-periphery" name="Uniswap/v4-periphery.git" remote="origin"/ groups="uniswap">
+    <project path="uniswap/interface" name="Uniswap/interface.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/permit2" name="Uniswap/permit2.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/sdk-core" name="Uniswap/sdk-core.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/v2-core" name="Uniswap/v2-core.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/v2-periphery" name="Uniswap/v2-periphery.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/v2-sdk" name="Uniswap/v2-sdk.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/v3-core" name="Uniswap/v3-core.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/v3-periphery" name="Uniswap/v3-periphery.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/v4-core" name="Uniswap/v4-core.git" remote="origin" groups="uniswap"/>
+    <project path="uniswap/v4-periphery" name="Uniswap/v4-periphery.git" remote="origin" groups="uniswap"/>
 </manifest>
