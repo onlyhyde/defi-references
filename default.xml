@@ -18,4 +18,9 @@
     <project path="pancakeswap/pancake-document" name="pancakeswap/pancake-document.git" remote="origin" groups="pancakeswap" revision="en"/>
     <project paht="pancakeswap/pancake-frontend" name="pancakeswap/pancake-frontend.git" remote="origin" groups="pancakeswap" revision="develop"/>
     <project path="pancakeswap/pancake-subgraph" name="pancakeswap/pancake-subgraph.git" remote="origin" groups="pancakeswap" revision="v3"/>
+
+    <project path="curvefi/curve-contract" name="curvefi/curve-contract.git" remote="origin" groups="curvefi" revision="master"/>
+    <project paht="curvefi/curve-dao-contracts" name="curvefi/curve-dao-contracts.git" remote="origin" groups="curvefi" revision="master"/>
+    <project path="curvefi/curve-pool-registry" name="curvefi/curve-pool-registry.git" remote="origin" groups="curvefi" revision="master"/>
+    
 </manifest>
