@@ -23,4 +23,9 @@
     <project paht="curvefi/curve-dao-contracts" name="curvefi/curve-dao-contracts.git" remote="origin" groups="curvefi" revision="master"/>
     <project path="curvefi/curve-pool-registry" name="curvefi/curve-pool-registry.git" remote="origin" groups="curvefi" revision="master"/>
     
+    <project path="sushiswap/sushixswap-v2" name="sushiswap/sushixswap-v2.git" remote="origin" groups="sushiswap" revision="master"/>
+    <project path="sushiswap/v2-core" name="sushiswap/v2-core.git" remote="origin" groups="sushiswap" revision="master"/>
+    <project path="sushiswap/masterchef" name="sushiswap/masterchef.git" remote="origin" groups="sushiswap" revision="master"/>
+    <project path="sushiswap/sushi-peripherals" name="sushiswap/sushi-peripherals.git" remote="origin" groups="sushiswap" revision="master"/>
+    <project path="sushiswap/sushiswap" name="sushiswap/sushiswap.git" remote="origin" groups="sushiswap" revision="master"/>
 </manifest>
